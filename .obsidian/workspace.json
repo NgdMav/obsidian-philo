@@ -34,89 +34,9 @@
               "icon": "lucide-file",
               "title": "Задания"
             }
-          },
-          {
-            "id": "1608be01a059692c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Философы/Эпикур.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Эпикур"
-            }
-          },
-          {
-            "id": "6d5f943c32c5f082",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Тексты/Письмо к Менекею.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Письмо к Менекею"
-            }
-          },
-          {
-            "id": "3f9084e2ea63a8e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Философы/Эрих Фромм.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Эрих Фромм"
-            }
-          },
-          {
-            "id": "6c45f64cbb61f236",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Тексты/«Иметь или быть?».md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "«Иметь или быть?»"
-            }
-          },
-          {
-            "id": "2570856281511ae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Видео/видео с Жижеком.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "видео с Жижеком"
-            }
-          },
-          {
-            "id": "469207ef5b02f2f2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Фромм",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -261,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тексты/«Иметь или быть?».md",
+                "file": "Задания.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура «Иметь или быть?»"
+              "title": "Структура Задания"
             }
           },
           {
@@ -309,27 +229,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "soundscapes:Soundscapes: My Music": false,
-      "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c45f64cbb61f236",
+  "active": "74564ad31706aa03",
   "lastOpenFiles": [
+    "Задания.md",
+    "Тексты/Экзистенциализм — это гуманизм.md",
+    "Философы/Жан-Поль Сартр.md",
+    "Видео/Неомарксизм как политическая философия.md",
+    "Тексты/«Маркс. Инструкция по применению».md",
+    "_resoures/_images/photo_10_2026-04-26_17-01-48.jpg",
+    "_resoures/_images/photo_9_2026-04-26_17-01-48.jpg",
+    "_resoures/_images/photo_8_2026-04-26_17-01-48.jpg",
+    "_resoures/_images/photo_7_2026-04-26_17-01-48.jpg",
+    "_resoures/_images/photo_6_2026-04-26_17-01-48.jpg",
+    "_resoures/_images/photo_5_2026-04-26_17-01-48.jpg",
+    "_resoures/_images/photo_4_2026-04-26_17-01-48.jpg",
+    "_resoures/_images/photo_3_2026-04-26_17-01-48.jpg",
+    "_resoures/_images/photo_2_2026-04-26_17-01-48.jpg",
+    "_resoures/_images/photo_1_2026-04-26_17-01-48.jpg",
+    "_resoures/_images",
+    "Философы/Карл Маркс.md",
+    "Тексты/К критике политической экономии.md",
+    "Стратегии/Социально-критическая стратегия в современной философии.md",
     "Философы/Эрих Фромм.md",
+    "Тексты/«к критике полит экономии».md",
+    "Тексты/Так говорил Заратустра.md",
+    "Философы/Ф. Ницше.md",
+    "Философы/Дж. Локк.md",
+    "Тексты/Два трактата о правлении.md",
+    "Философы/T. Гоббс.md",
+    "Тексты/Левиафан.md",
+    "Т. Гоббс.md",
+    "Видео/Философия Нового времени. Бэкон, Декарт, эмпиризм и рационализм. Основа науки. Часть I.md",
+    "Видео/Что мы можем знать? Теория познания Канта.md",
+    "Видео/Философия Нового времени. Локк, Беркли, Спиноза и Лейбниц. Скептик Дэвид Юм. Часть II.md",
+    "Ответы.md",
+    "Философы/Эпикур.md",
     "Тексты/«Иметь или быть?».md",
     "Тексты/Письмо к Менекею.md",
-    "Философы/Эпикур.md",
-    "Задания.md",
+    "Видео/видео с Жижеком.md",
+    "_resoures/_videos/IMG_6486.mp4",
+    "_resoures/_videos",
     "Тексты/Апология Сократа.md",
-    "Философы/Сократ.md",
-    "Видео/Платон и его идеи.md",
-    "Философы/Платон.md",
-    "Философы/Женщины-философы Античности.md",
-    "Ответы.md",
-    "Ответы (параграфы)/1.3. Предмет философии. Структура философского знания..md",
-    "Ответы (параграфы)/2.1. Проблема начала философии - основные концепции.md",
-    "Философы/Конфуций.md",
-    "Тексты/«Лунь Юй».md",
     "_resoures/_texts/2 семинар Восток- Античность 6.docx",
     "_resoures/_texts/khomich_dobrorodnij-praktikum-filosofiya-1.pdf",
     "_resoures/_texts/ответы.pdf",
@@ -337,20 +280,6 @@
     "_resoures/_texts/Женщины философы Античности  2.docx",
     "_resoures/_texts/3 семинар Эпикур Фромм 2.docx",
     "_resoures/_texts/творческое задание.docx",
-    "_resoures/_texts/ссылки.txt",
-    "_resoures/_texts/Маркс К критике полит.экономии 2.docx",
-    "_resoures/_texts/Ницше 2.docx",
-    "Ответы (параграфы)/3.8. Структурализм и постструктурализм. Философия постмодернизма.md",
-    "Стратегии/Экзистенциально-феноменологическая стратегия в современной философии.md",
-    "Концепции/экзистенция.md",
-    "Стратегии/Социально-критическая стратегия в современной философии.md",
-    "Философы/Жан-Поль Сартр.md",
-    "Ответы (параграфы)/3.5. Марксизм и его статус в историко-философской традиции.md",
-    "Философы/Карл Маркс.md",
-    "Стратегии/Аналитическая стратегия в современной философии.md",
-    "Философкие эпохи/Философия позитивизма.md",
-    "Философкие эпохи/Становление иррациональной традиции в неклассической философии.md",
-    "Философы/Ф. Ницше.md",
     "Без названия.canvas"
   ]
 }

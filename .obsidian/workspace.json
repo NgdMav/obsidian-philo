@@ -1,0 +1,356 @@
+{
+  "main": {
+    "id": "06da79cd6451642f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a0ff1721879b57f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25c2a52473ce04d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ответы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ответы"
+            }
+          },
+          {
+            "id": "74564ad31706aa03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задания.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задания"
+            }
+          },
+          {
+            "id": "1608be01a059692c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Философы/Эпикур.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Эпикур"
+            }
+          },
+          {
+            "id": "6d5f943c32c5f082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тексты/Письмо к Менекею.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Письмо к Менекею"
+            }
+          },
+          {
+            "id": "3f9084e2ea63a8e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Философы/Эрих Фромм.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Эрих Фромм"
+            }
+          },
+          {
+            "id": "6c45f64cbb61f236",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тексты/«Иметь или быть?».md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "«Иметь или быть?»"
+            }
+          },
+          {
+            "id": "2570856281511ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Видео/видео с Жижеком.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "видео с Жижеком"
+            }
+          },
+          {
+            "id": "469207ef5b02f2f2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4052ef9736c2b951",
+    "type": "split",
+    "children": [
+      {
+        "id": "9245a75980e83cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7ecb0913c041321",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "6d8f37b6341d7ccf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b9167e750900ce7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "right": {
+    "id": "ecb0b5e83f123c2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f31583c78632420c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e11d3d57fc10d3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ответы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Ответы"
+            }
+          },
+          {
+            "id": "59579bc7c77d4627",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ответы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Ответы"
+            }
+          },
+          {
+            "id": "fa3885fd28e41316",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "4e42ccea9e0ec17a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "861399229595fe5f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "20e2f218e6c21e81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Тексты/«Иметь или быть?».md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура «Иметь или быть?»"
+            }
+          },
+          {
+            "id": "75d86172130960e9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "0ab9ddc9c61a54ec",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "soundscapes:Soundscapes: My Music": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6c45f64cbb61f236",
+  "lastOpenFiles": [
+    "Философы/Эрих Фромм.md",
+    "Тексты/«Иметь или быть?».md",
+    "Тексты/Письмо к Менекею.md",
+    "Философы/Эпикур.md",
+    "Задания.md",
+    "Тексты/Апология Сократа.md",
+    "Философы/Сократ.md",
+    "Видео/Платон и его идеи.md",
+    "Философы/Платон.md",
+    "Философы/Женщины-философы Античности.md",
+    "Ответы.md",
+    "Ответы (параграфы)/1.3. Предмет философии. Структура философского знания..md",
+    "Ответы (параграфы)/2.1. Проблема начала философии - основные концепции.md",
+    "Философы/Конфуций.md",
+    "Тексты/«Лунь Юй».md",
+    "_resoures/_texts/2 семинар Восток- Античность 6.docx",
+    "_resoures/_texts/khomich_dobrorodnij-praktikum-filosofiya-1.pdf",
+    "_resoures/_texts/ответы.pdf",
+    "_resoures/_texts/2 семинар Восток- Античность 6.docx",
+    "_resoures/_texts/Женщины философы Античности  2.docx",
+    "_resoures/_texts/3 семинар Эпикур Фромм 2.docx",
+    "_resoures/_texts/творческое задание.docx",
+    "_resoures/_texts/ссылки.txt",
+    "_resoures/_texts/Маркс К критике полит.экономии 2.docx",
+    "_resoures/_texts/Ницше 2.docx",
+    "Ответы (параграфы)/3.8. Структурализм и постструктурализм. Философия постмодернизма.md",
+    "Стратегии/Экзистенциально-феноменологическая стратегия в современной философии.md",
+    "Концепции/экзистенция.md",
+    "Стратегии/Социально-критическая стратегия в современной философии.md",
+    "Философы/Жан-Поль Сартр.md",
+    "Ответы (параграфы)/3.5. Марксизм и его статус в историко-философской традиции.md",
+    "Философы/Карл Маркс.md",
+    "Стратегии/Аналитическая стратегия в современной философии.md",
+    "Философкие эпохи/Философия позитивизма.md",
+    "Философкие эпохи/Становление иррациональной традиции в неклассической философии.md",
+    "Философы/Ф. Ницше.md",
+    "Без названия.canvas"
+  ]
+}

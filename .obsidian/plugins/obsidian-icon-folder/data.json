@@ -1,0 +1,82 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiSchool",
+      "LiAlignJustify",
+      "LiAlertCircle",
+      "LiNotebookText",
+      "LiBookOpenText"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Тексты": {
+    "iconName": "LiBookOpen",
+    "iconColor": "#06c125"
+  },
+  "Философы": {
+    "iconName": "LiBrain",
+    "iconColor": "#e38787"
+  },
+  "Видео": {
+    "iconName": "LiYoutube",
+    "iconColor": "#a80000"
+  },
+  "Задания.md": {
+    "iconName": "LiAlignJustify",
+    "iconColor": "#eabe1f"
+  },
+  "Философкие эпохи": {
+    "iconName": "LiEarth",
+    "iconColor": "#004be0"
+  },
+  "Доклады": "LiPen",
+  "Стратегии": {
+    "iconName": "LiActivity",
+    "iconColor": "#a80092"
+  },
+  "Ответы.md": {
+    "iconName": "LiFileText",
+    "iconColor": "#088ff7"
+  },
+  "Ответы (параграфы)": {
+    "iconName": "LiNotebookText",
+    "iconColor": "#00ced1"
+  },
+  "Концепции": {
+    "iconName": "LiAlertCircle",
+    "iconColor": "#ff00ae"
+  },
+  "Концепции/Разделы философии": {
+    "iconName": "LiAlignJustify",
+    "iconColor": "#8a0000"
+  },
+  "Школы": {
+    "iconName": "LiSchool",
+    "iconColor": "#fdf630"
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "backgroundTheme": "seasons and holidays",
+  "backgroundTheme": "transparent",
   "customBackground": "",
   "localBackgrounds": [],
   "showTopLeftSearchButton": true,
@@ -9,7 +9,7 @@
   },
   "showTime": true,
   "timeFormat": "24-hour",
-  "showGreeting": true,
+  "showGreeting": false,
   "greetingText": "Hello, Beautiful.",
   "showInlineSearch": true,
   "inlineSearchProvider": {

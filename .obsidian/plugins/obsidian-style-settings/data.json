@@ -21,5 +21,7 @@
   "Components@@Ribbon-autohide": false,
   "Appearance-dark@@background-underlying-select-dark": "background-underlying-secondary-dark",
   "Components@@scrollbar-hide": false,
-  "Editor@@inline-title-divider-remove": false
+  "Editor@@inline-title-divider-remove": false,
+  "Components@@new-tab-image-select": "new-tab-image-none",
+  "Components@@new-tab-image": "url(\"/home/mav/Pictures/wallpapers/Dynamic-Wallpapers/Dark/Beach-Dark.png\")"
 }

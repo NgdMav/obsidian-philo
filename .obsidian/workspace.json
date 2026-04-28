@@ -13,32 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ответы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ответы"
-            }
-          },
-          {
-            "id": "5d78d655c696a1e4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "_resoures/_texts/ответы.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ответы"
-            }
-          },
-          {
-            "id": "74564ad31706aa03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Задания.md",
                 "mode": "source",
                 "source": false
@@ -48,47 +22,32 @@
             }
           },
           {
-            "id": "939a4bd5928e4632",
+            "id": "5d78d655c696a1e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ответы.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ответы"
+            }
+          },
+          {
+            "id": "8c41a25885dbe295",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Хронология/Общая.md"
+                "file": "Хронология/Схема от Ренесанса до .excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Общая"
-            }
-          },
-          {
-            "id": "beb3f6370f905a01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Стратегии/Аналитическая стратегия в современной философии.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Аналитическая стратегия в современной философии"
-            }
-          },
-          {
-            "id": "b2c115c768055adf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Философкие эпохи/Философия Средневековья.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Философия Средневековья"
+              "title": "Схема от Ренесанса до .excalidraw"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 290.5
   },
   "right": {
     "id": "ecb0b5e83f123c2d",
@@ -161,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Стратегии/Аналитическая стратегия в современной философии.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Аналитическая стратегия в современной философии"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -233,12 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Задания.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Задания"
             }
           },
           {
@@ -261,7 +220,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -284,42 +244,43 @@
   },
   "active": "d7ecb0913c041321",
   "lastOpenFiles": [
-    "Школы/Постмодернизм.md",
-    "Ответы (параграфы)/3.8. Структурализм и постструктурализм. Философия постмодернизма.md",
-    "Философкие эпохи/Философия Средневековья.md",
-    "Школы/Постструктурализм.md",
-    "Школы/Структурализм.md",
-    "Стратегии/Аналитическая стратегия в современной философии.md",
-    "Философкие эпохи/Философия немецкого идеализма.md",
-    "Философкие эпохи/Философия Нового времени.md",
-    "Философкие эпохи/Философия Возрождения.md",
-    "Хронология/Общая.md",
-    "_resoures/_texts/ответы.pdf",
+    "Хронология/Схема от Ренесанса до .excalidraw.md",
+    "Философкие эпохи/Становление иррациональной традиции в неклассической философии.md",
+    "Философкие эпохи/Классика и неклассика - типы рациональности.md",
     "Ответы.md",
-    "Стратегии/Социально-критическая стратегия в современной философии.md",
-    "Школы/Экзистенциализм.md",
     "Стратегии/Экзистенциально-феноменологическая стратегия в современной философии.md",
-    "Философы/Жан-Поль Сартр.md",
+    "Стратегии/Аналитическая стратегия в современной философии.md",
+    "Тексты/РАЦИОНАЛЬНОСТЬ В СОВРЕМЕННОЙ КУЛЬТУРЕ. НАУКА И ПСЕВДОНАУКА.md",
+    "Ответы (параграфы)/3.8. Структурализм и постструктурализм. Философия постмодернизма.md",
     "Задания.md",
-    "_resoures/_templates/Школа.md",
-    "Школы/Эпикуреизм.md",
-    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
-    "Excalidraw/Drawing 2026-04-26 21.49.49.excalidraw.md",
+    "Стратегии/Социально-критическая стратегия в современной философии.md",
+    "Ответы (параграфы)/3.5. Марксизм и его статус в историко-философской традиции.md",
+    "Философкие эпохи/Философия позитивизма.md",
+    "Философы/Жан-Поль Сартр.md",
+    "Философы/Фрейд.md",
+    "Философы/Карл Маркс.md",
+    "Философы/Ф. Ницше.md",
+    "Философы/А. Шопенгауэр.md",
+    "Философы/С. Кьеркегор.md",
+    "Философкие эпохи/Философия немецкого идеализма.md",
+    "Философы/Л. Фейербах.md",
+    "Философы/Г. В. Ф. Гегель.md",
+    "Философкие эпохи/Философия Древнего Китая.md",
+    "Видео/Философия Нового времени. Бэкон, Декарт, эмпиризм и рационализм. Основа науки. Часть I.md",
+    "Хронология/Общая хронология.md",
+    "Философы/Ф. В. Й. Шеллинг.md",
+    "Философы/И. Г. Фихте.md",
+    "_resoures/_images/Pasted Image 20260427160248_327.png",
+    "_resoures/_images/Pasted Image 20260427160222_567.png",
+    "_resoures/_images/Pasted Image 20260427155507_042.png",
+    "_resoures/_images/Pasted Image 20260427155205_206.png",
+    "_resoures/_images/Pasted Image 20260427154949_566.png",
+    "_resoures/_texts/ответы.pdf",
     "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
-    "Excalidraw/Scripts/Downloaded/Set Text Alignment.md",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
-    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Set Font Family.svg",
-    "Excalidraw/Scripts/Downloaded/Set Font Family.md",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
-    "Excalidraw/Scripts/Downloaded/Set Dimensions.md",
     "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.svg",
-    "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.md",
-    "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.svg",
-    "Excalidraw/Scripts/Downloaded/Convert selected text elements to sticky notes.md",
-    "Excalidraw/Scripts/Downloaded/Connect elements.svg",
-    "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
-    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Хронология",
@@ -327,7 +288,6 @@
     "Excalidraw",
     "_resoures/_texts/khomich_dobrorodnij-praktikum-filosofiya-1.pdf",
     "_resoures/_videos/IMG_6486.mp4",
-    "_resoures/_images/photo_10_2026-04-26_17-01-48.jpg",
     "_resoures/_images",
     "_resoures/_videos",
     "Без названия.canvas"
